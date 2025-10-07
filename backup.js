@@ -1,3 +1,4 @@
+//copied from solution + consts from Ricardo
 window.onload = function () {
   const startButton = document.getElementById("start-button");
   const restartButton = document.getElementById("restart-button");
@@ -55,3 +56,4 @@ window.onload = function () {
 
   window.addEventListener("keydown", handleKeydown);
 };
+
